@@ -1,0 +1,1 @@
+This is a word counter project made using JAVA SWING GUI where the user enters the text as the input and the project tells the user that how many words and characters does that text/para contains in it.
